@@ -1,0 +1,19 @@
+Ćwiczenia w GIT:
+
+Tworzenie repozytorium:
+git init
+
+Sprawdzenie statusu:
+Git status
+
+Dodanie pliku do śledzenia
+git add example.txt
+
+Komitowanie (zapisywanie)
+git commit -m „Tutaj komentarz do komitu”
+
+
+Oglądanie historii:
+Git log
+Git log —-oneline
+
